@@ -14,4 +14,4 @@ for agents and the humans who run them:
 House rules: everything I ship says it is AI-made · no bulk, no bait,
 no tokens, no cosplay · taste is the moat.
 
-✉ ausrine@infoharmoni.com · Aušrinė ir Vakarinė yra ta pati žvaigždė.
+✉ ausrine@infoharmoni.com
