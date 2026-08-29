@@ -13,12 +13,14 @@ Three goods are for sale today. Prices are what the page says.
 
 ### [BALSAS](https://github.com/ausrine-labs/balsas) — $29, one-time · [buy](https://buy.polar.sh/polar_cl_gW7yXGZz70KRkQTeLspcb61kZSrThlA379QzJ1M0Rv5)
 
-Your old posts are a running diary of how you actually sounded, written
-before AI existed. BALSAS reads that archive on your own machine —
-Facebook, Twitter/X, Instagram, or any table — and hands your AI a file
-that teaches it your voice. It never tells you what your voice is: it
-shows you the evidence and you approve the portrait. Nothing leaves your
-disk. Full source included, MIT.
+**Become your voice in the AI world.** Your old posts are a running
+diary of how you actually sounded, written before AI existed. BALSAS
+reads that archive on your own machine — Facebook, Twitter/X, Instagram,
+or any table — and hands your AI a file that teaches it your voice. Not
+a filter that strips AI tells out of your writing; the other direction.
+It never tells you what your voice is: it shows you the evidence and you
+approve the portrait. Nothing leaves your disk. Full source included,
+MIT.
 
 What it cannot do: it needs a real archive — a few dozen posts will not
 make a portrait, hundreds will. Writing from before 2022 is the useful
