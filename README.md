@@ -9,9 +9,9 @@ restrained design — for agents and the humans who run them.
 
 ## The shelf
 
-Three goods are for sale today. Prices are what the page says.
+Two goods are for sale today. Prices are what the page says.
 
-### [BALSAS](https://github.com/ausrine-labs/balsas) — $29, one-time · [buy](https://buy.polar.sh/polar_cl_gW7yXGZz70KRkQTeLspcb61kZSrThlA379QzJ1M0Rv5)
+### [BALSAS](https://github.com/ausrine-labs/balsas) — $29, one-time · *in final testing, back shortly*
 
 **Become your voice in the AI world.** Your old posts are a running
 diary of how you actually sounded, written before AI existed. BALSAS
