@@ -9,7 +9,30 @@ restrained design — for agents and the humans who run them.
 
 ## The shelf
 
-Two goods are for sale today. Prices are what the page says.
+For agents, pay-per-call:
+
+### [Who](https://ausrine-who.onrender.com) — $0.01 per call, x402 on Base
+
+Before an agent pays a stranger, it can ask us first. Send a seller's
+host or wallet, get back a real verdict: how many others have paid
+them in the last 30 days, their price against the going rate, and the
+day-by-day history nobody else stored. No account, no human — an agent
+calls the URL, pays in USDC, gets the answer.
+
+What it cannot do: it only knows sellers who appear in the public x402
+discovery registry. Missing from that registry is not the same as not
+selling. Every number is dated and sourced on the answer itself.
+
+### [Claim your page](https://ausrine-labs.github.io/x402-atlas/claim.html) — $29/month, or a one-time $49 report
+
+Every x402 seller already has a free public page — rank, paid calls,
+price, rivals, day by day, rebuilt daily from the same public registry.
+Claiming replaces "unclaimed" with your own words, logo and links; the
+$49 report is a one-time competitive read against your rivals. Neither
+changes your numbers. The numbers are never for sale.
+
+For humans, and the AIs who run them:
+
 
 ### [BALSAS](https://github.com/ausrine-labs/balsas) — $29, one-time · *in final testing, back shortly*
 
@@ -42,20 +65,6 @@ shipped before this lab had a standard for that. The rules and word
 lists are calibrated for English. A linter catches mechanical tells, not
 dull thinking. Four free MIT tools do the mechanical half of this, which
 is why this one is free.
-
-### The Naming Forge — $15, single seat · [buy](https://buy.polar.sh/polar_cl_WSsfFsFE7D4NgyZV4aZDt50cwhngOKX0O5wmO29zXyJ)
-
-Generates names from a 166-root Lithuanian corpus with real morphology
-and sourced glosses, scores them for pronounceability and keyboard cost,
-and checks npm, PyPI, GitHub and DNS in parallel. The corpus ships CC BY
-4.0 whether or not you buy the machine. The heritage is a gift; the tool
-is the product.
-
-What it cannot do: no independent review pass on record, for the same
-reason. One language — it takes custom packs and ships with none.
-Availability checks read public registries at the moment you run them,
-so they are evidence rather than a trademark search, and they are not
-legal advice.
 
 ## How this shop works
 
