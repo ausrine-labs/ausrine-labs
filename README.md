@@ -44,13 +44,15 @@ ordinary transfer is shown separately and is not a call. A wallet is not
 a person. The category is matched from descriptions and is checked by
 hand before the report is sent.
 
-### [Claimed operator](https://buy.polar.sh/polar_cl_7dKf661vieRDhIcPLLthLBUZ6SCqerEfXGXb03lQoT6) — $299, one-time
+### [Claimed operator](https://buy.polar.sh/polar_cl_nabc7zipli1BLgwDkLh4tyEEPyrSE3rTIEzxh1BaWDG) — $49/month, every host in your group
 
 The registry lists your services as separate hosts; the chain shows they
 are paid into one wallet, and the Atlas already groups them. This puts
 your name on the group: an operator page naming every host, with the
-wallet evidence beside it, and a "claimed by operator" mark on each host's
-page.
+wallet evidence beside it, a "claimed by operator" mark on each host's
+page, your hosts' buyers and concentration read together every day, and a
+monthly note on what changed. Cancel any time; the pages return to
+unclaimed.
 
 What it cannot do: it is not an endorsement, a safety check, or a
 judgement that a service is good or real. It means the owner proved
