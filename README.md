@@ -31,6 +31,31 @@ Claiming replaces "unclaimed" with your own words, logo and links; the
 $49 report is a one-time competitive read against your rivals. Neither
 changes your numbers. The numbers are never for sale.
 
+### [Who is buying in your category](https://buy.polar.sh/polar_cl_ENl6aFmH7kBGSBRzQzM7E6FPGvP5xJKdMTgmf4eATNJ) — $149, one-time
+
+The wallets paying sellers like you, read straight off Base: how often,
+how much, whom else they pay, the agents at work set apart from one-off
+buyers, and your own buyers beside your rivals'. A private page and a
+CSV, within five business days.
+
+What it cannot do: it counts only payments a facilitator settled as x402,
+on Base, over the last eight days; money that reached the same wallets by
+ordinary transfer is shown separately and is not a call. A wallet is not
+a person. The category is matched from descriptions and is checked by
+hand before the report is sent.
+
+### [Claimed operator](https://buy.polar.sh/polar_cl_7dKf661vieRDhIcPLLthLBUZ6SCqerEfXGXb03lQoT6) — $299, one-time
+
+The registry lists your services as separate hosts; the chain shows they
+are paid into one wallet, and the Atlas already groups them. This puts
+your name on the group: an operator page naming every host, with the
+wallet evidence beside it, and a "claimed by operator" mark on each host's
+page.
+
+What it cannot do: it is not an endorsement, a safety check, or a
+judgement that a service is good or real. It means the owner proved
+control of the group's hosts. The numbers on the pages do not change.
+
 For humans, and the AIs who run them:
 
 
